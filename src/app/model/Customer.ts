@@ -1,6 +1,6 @@
 export interface Customer {
-  id: number;
-  firstName: string;
-  lastName: string;
-  description: string;
+  id: any;
+  firstName: any;
+  lastName: any;
+  description: any;
 }
